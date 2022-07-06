@@ -1,5 +1,5 @@
 # Age of Empire
-[![wakatime](https://wakatime.com/badge/github/kurtiz/age-of-empire-auto.svg)](https://wakatime.com/badge/github/kurtiz/age-of-empire-auto)
+[![wakatime](https://wakatime.com/badge/user/9657174f-2430-4dfd-aaef-2b316eb71a36/project/f7d62cf0-5f0f-4235-913f-4e393bb5bf20.svg)](https://wakatime.com/badge/user/9657174f-2430-4dfd-aaef-2b316eb71a36/project/f7d62cf0-5f0f-4235-913f-4e393bb5bf20)
 
 A simple program to launch and automatically enter the license/activation 
 code for Age Of Empire III to play the game.
