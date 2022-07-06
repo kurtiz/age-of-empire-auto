@@ -7,8 +7,45 @@ code for Age Of Empire III to play the game.
 ## CheatEngine
 A simple keystroke listener to catch specific hotkeys and run some cheat codes.
 
-### Cheats:
-- Food 100,000 - `ctrl f`
-- Wood 100,000 - `ctrl w`
-- Coins 100,000 - `ctrl c`
-- Laser Panda - `ctrl p`
+## SETUP
+### Create a virtual environment
+```commandline
+$ python3 -m venv age_of_empire
+```
+### Activate virtual environment
+
+```commandline
+$ cd age_of_empire\Scripts\
+$ activate
+```
+
+### Install the required dependencies
+```commandline
+(age_of_empire)$ pip install -r requirements.txt
+```
+
+## USAGE
+### Run the game auto launcher
+```commandline
+(age_of_empire)$ python3 open_age_of_empire.py 
+```
+
+### Run the listener
+```commandline
+(age_of_empire)$ python3 listener.py 
+```
+### Cheats Hot Keys:
+- Food 100,000 - `ctrl [`
+- Wood 100,000 - `ctrl ]`
+- Coins 100,000 - `ctrl ;`
+- Laser Panda - `ctrl '`
+
+To shut the listener down press *"."* 
+
+## NOTE
+The game has to be installed in this directory
+```jsonpath
+C:\"Program Files (x86)"\"Microsoft Studios"\"Age of Empires III - Complete"
+```
+in order to work properly. Installation path flexibility will be considered 
+in the future
