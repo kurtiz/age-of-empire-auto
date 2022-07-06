@@ -3,6 +3,10 @@
 A simple program to launch and automatically enter the license/activation 
 code for Age Of Empire III to play the game.
 
-## Future Features
-I'm hoping to add a cheat engine to the program to automatically run or 
-enter cheat code during gameplay with defined shortcuts
+## CheatEngine
+A simple keystroke listener to catch specific hotkeys and run some cheat codes.
+### Cheats:
+- Food 100,000 - `ctrl f`
+- Wood 100,000 - `ctrl c`
+- Coins 100,000 - `ctrl w`
+- Lase Panda - `ctrl p`
