@@ -11,4 +11,4 @@ A simple keystroke listener to catch specific hotkeys and run some cheat codes.
 - Food 100,000 - `ctrl f`
 - Wood 100,000 - `ctrl c`
 - Coins 100,000 - `ctrl w`
-- Lase Panda - `ctrl p`
+- Laser Panda - `ctrl p`
