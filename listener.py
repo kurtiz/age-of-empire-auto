@@ -14,8 +14,8 @@ def main():
 
     print("Cheat server started!\n")
     print("=========Hot Keys=========")
-    print("Food 100,000 - ctrl f \nWood 100,000 - ctrl w \nCoins 100,000 - ctrl c "
-          "\nLaser Panda - ctrl p \nPress \".\" to shut the listener down\n")
+    print("Food 100,000 - ctrl [ \nWood 100,000 - ctrl ; \nCoins 100,000 - ctrl ] "
+          "\nLaser Panda - ctrl '\nPress \".\" to shut the listener down\n")
     print("Listening to keystroke.......")
 
     keyboard.wait(".")
