@@ -56,12 +56,13 @@ def main():
     print("Ctrl+T - Max Population")
     print("Ctrl+Y - Increase Pop Limit")
     print("Ctrl+U - Defeat Player 2")
-    print("\nPress \".\" to shut the listener down\n")
+    print("\nPress \"ctrl + .\" to shut the listener down\n")
     print("Listening to keystroke.......")
 
-    keyboard.wait(".")
+    keyboard.wait("Ctrl+.")
     print("Shutting server down")
 
 
 if __name__ == "__main__":
     main()
+

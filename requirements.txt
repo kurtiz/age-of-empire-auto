@@ -1,2 +1,3 @@
 PyAutoGUI==0.9.53
 keyboard==0.13.5
+pydirectinput==1.0.4
